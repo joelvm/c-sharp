@@ -1,2 +1,2 @@
-# c-sharp
-My c# projects
+# calculator
+Simple calculator in C# using polish notations (postfix)
